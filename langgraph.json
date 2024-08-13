@@ -1,0 +1,11 @@
+{
+  "python_version": "3.11",
+  "dockerfile_lines": [],
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "engineer": "./src/agent/test.py:graph"
+  },
+  "env": "/Users/hawk/workspace/projects/llm/langstudio1/.env"
+}
